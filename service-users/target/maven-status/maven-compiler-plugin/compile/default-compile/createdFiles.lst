@@ -1,0 +1,7 @@
+com\dealership\serviceusers\service\UserService.class
+com\dealership\serviceusers\repo\model\User.class
+com\dealership\serviceusers\api\dto\User.class
+com\dealership\serviceusers\api\UserController.class
+com\dealership\serviceusers\repo\UserRepo.class
+com\dealership\serviceusers\ServiceUsersApplication.class
+com\dealership\serviceusers\request\UserRequest.class
