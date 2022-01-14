@@ -1,0 +1,7 @@
+com\dealership\servicedeals\api\DealController.class
+com\dealership\servicedeals\repo\DealRepo.class
+com\dealership\servicedeals\repo\model\Deal.class
+com\dealership\servicedeals\ServiceDealsApplication.class
+com\dealership\servicedeals\api\dto\Deal.class
+com\dealership\servicedeals\service\DealService.class
+com\dealership\servicedeals\request\DealRequest.class
