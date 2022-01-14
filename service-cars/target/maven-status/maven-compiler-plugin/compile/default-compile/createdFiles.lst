@@ -1,0 +1,7 @@
+com\dealership\servicecars\api\CarController.class
+com\dealership\servicecars\request\CarRequest.class
+com\dealership\servicecars\repo\CarRepo.class
+com\dealership\servicecars\repo\model\Car.class
+com\dealership\servicecars\service\CarService.class
+com\dealership\servicecars\ServiceCarsApplication.class
+com\dealership\servicecars\api\dto\Car.class
